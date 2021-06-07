@@ -1,0 +1,22 @@
+{
+  "name": "nazaries-poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "worker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fastify": "^3.17.0",
+    "fastify-multipart": "^4.0.6",
+    "fastify-swagger": "^4.7.0",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "pump": "^3.0.0",
+    "stream": "0.0.2",
+    "util": "^0.12.4"
+  }
+}
